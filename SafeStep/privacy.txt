@@ -37,7 +37,6 @@ Georg Grichtmaier
 Gustav-Heinemann-Ring 39
 81739 München, Germany
 Email: geoboyan@proton.me
-[Add Tax ID / Steuernummer if already assigned]
 
 7. Your Rights (GDPR)
 Under the GDPR, you have the right to access, rectify, or delete your data. Since all data is stored locally on your phone, you can exercise these rights by clearing the app cache or uninstalling the application.
